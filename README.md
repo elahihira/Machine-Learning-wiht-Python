@@ -1,7 +1,7 @@
 # Machine-Learning-wiht-Python
 In this project, we will complete a notebook where you will build a classifier to predict whether a loan case will be paid off or not.   We load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. We are expected to use the following algorithms to build your models: 
-  k-Nearest Neighbour 
-  Decision Tree
+     k-Nearest Neighbour 
+     Decision Tree
   Support Vector Machine
   Logistic Regression 
 
